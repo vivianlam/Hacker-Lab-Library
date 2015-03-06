@@ -3,9 +3,6 @@ title
 	font-family: sans-serif;
 }
 
-
-
-
 header
 {
 	font-style: bold;
@@ -19,4 +16,9 @@ body
 {
 	background-color: rgb(200,200,200);
 
+}
+
+td
+{
+	width: 25%;
 }
